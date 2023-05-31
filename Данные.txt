@@ -1,0 +1,52 @@
+1000
+insert:
+myset: 314.66
+std::set: 315.81
+
+find:
+myset: 0.43
+std::set: 0.34
+insert+erase:
+
+myset: 25.4
+std::set: 0.75
+
+
+
+
+
+
+
+
+10000
+insert:
+myset: 3136.26
+std::set: 2525.53
+
+find:
+myset: 0.43
+std::set: 0.48
+
+insert+erase:
+myset: 259.33
+std::set: 0.99
+
+
+
+
+
+
+
+
+100000
+insert:
+myset: 31084.1
+std::set: 24304.2
+
+find:
+myset: 0.52
+std::set: 0.49
+
+insert+erase:
+myset: 758.72
+std::set: 1.61
