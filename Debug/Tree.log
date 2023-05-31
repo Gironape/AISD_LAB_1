@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\Projectы\Tree\Tree\main.cpp(46,16): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Tree.vcxproj -> E:\Projectы\Tree\Debug\Tree.exe
